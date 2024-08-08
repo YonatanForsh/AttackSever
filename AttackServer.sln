@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttackServer", "AttackServer.csproj", "{FBC2D80E-7481-4E9A-A642-E19BE54DA8D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise", "..\Exercise\Exercise.csproj", "{C8CB2474-B2EE-4D25-A502-1CADEB84C0D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FBC2D80E-7481-4E9A-A642-E19BE54DA8D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBC2D80E-7481-4E9A-A642-E19BE54DA8D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBC2D80E-7481-4E9A-A642-E19BE54DA8D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8CB2474-B2EE-4D25-A502-1CADEB84C0D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8CB2474-B2EE-4D25-A502-1CADEB84C0D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8CB2474-B2EE-4D25-A502-1CADEB84C0D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8CB2474-B2EE-4D25-A502-1CADEB84C0D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
