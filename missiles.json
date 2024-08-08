@@ -1,0 +1,68 @@
+{
+  "missiles": [
+    {
+      "name": "Qassam-1",
+      "speed": 250,
+      "mass": 5,
+      "launchCoordinates": [
+        {
+          "latitude": 31.5017,
+          "longitude": 34.4668
+        },
+        {
+          "latitude": 31.5072,
+          "longitude": 34.4736
+        }
+      ],
+      "angle": 45
+    },
+    {
+      "name": "M-75",
+      "speed": 500,
+      "mass": 150,
+      "launchCoordinates": [
+        {
+          "latitude": 31.5234,
+          "longitude": 34.4889
+        },
+        {
+          "latitude": 31.5290,
+          "longitude": 34.4957
+        }
+      ],
+      "angle": 60
+    },
+    {
+      "name": "Fajr-5",
+      "speed": 1100,
+      "mass": 900,
+      "launchCoordinates": [
+        {
+          "latitude": 33.2587,
+          "longitude": 35.2274
+        },
+        {
+          "latitude": 33.2642,
+          "longitude": 35.2339
+        }
+      ],
+      "angle": 75
+    },
+    {
+      "name": "Kornet",
+      "speed": 300,
+      "mass": 27,
+      "launchCoordinates": [
+        {
+          "latitude": 32.0332,
+          "longitude": 35.2015
+        },
+        {
+          "latitude": 32.0388,
+          "longitude": 35.2078
+        }
+      ],
+      "angle": 90
+    }
+  ]
+}
